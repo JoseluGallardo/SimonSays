@@ -10,3 +10,27 @@ D:\App Prog Clase\SimonDice\SimonDice\bin\Debug\SimonDice.exe.manifest
 D:\App Prog Clase\SimonDice\SimonDice\bin\Debug\SimonDice.application
 D:\App Prog Clase\SimonDice\SimonDice\obj\Debug\SimonDice.exe.manifest
 D:\App Prog Clase\SimonDice\SimonDice\obj\Debug\SimonDice.application
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.exe
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.pdb
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\bin\Debug\SimonDice.exe.manifest
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\bin\Debug\SimonDice.application
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\bin\Debug\SimonDice.exe
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\bin\Debug\SimonDice.pdb
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.csprojResolveAssemblyReference.cache
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.Form1.resources
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.Properties.Resources.resources
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.csproj.GenerateResource.Cache
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.exe.manifest
+E:\Instituto\Programación\Proyectos Clase\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.application
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.exe
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.pdb
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\bin\Debug\SimonDice.exe.manifest
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\bin\Debug\SimonDice.application
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\bin\Debug\SimonDice.exe
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\bin\Debug\SimonDice.pdb
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.csprojResolveAssemblyReference.cache
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.Form1.resources
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.Properties.Resources.resources
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.csproj.GenerateResource.Cache
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.exe.manifest
+E:\Multimedia\Programas\SimonDice v1.2\SimonDice\obj\Debug\SimonDice.application

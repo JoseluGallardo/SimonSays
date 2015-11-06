@@ -26,6 +26,7 @@ namespace SimonDice
         public Form1()
         {
             InitializeComponent();
+            button5.Enabled = false;
         }
 
         #region Campos
@@ -55,16 +56,16 @@ namespace SimonDice
                     switch (num)
                     {
                         case 0:
-                            Colorear(Color.DarkRed, Color.LightSalmon, button1);
+                            Colorear(Color.DarkRed, Color.LightSalmon, button1, 550);
                             break;
                         case 1:
-                            Colorear(Color.DarkGreen, Color.LightGreen, button2);
+                            Colorear(Color.DarkGreen, Color.LightGreen, button2, 600);
                             break;
                         case 2:
-                            Colorear(Color.MidnightBlue, Color.LightBlue, button3);
+                            Colorear(Color.MidnightBlue, Color.LightBlue, button3, 650);
                             break;
                         case 3:
-                            Colorear(Color.Gold, Color.Khaki, button4);
+                            Colorear(Color.Gold, Color.Khaki, button4, 700);
                             break;
                     }
                 }
@@ -72,12 +73,12 @@ namespace SimonDice
                 Acertar();
             }
 
-            private void Colorear(Color origen, Color nuevo, Button nBut)
+            private void Colorear(Color origen, Color nuevo, Button nBut, int freq)
             {
                 Thread.Sleep(100);
                 nBut.BackColor = nuevo;
                 Application.DoEvents();
-                Thread.Sleep(retardo);
+                Console.Beep(freq, retardo);
                 nBut.BackColor = origen;
                 Application.DoEvents();
             }
